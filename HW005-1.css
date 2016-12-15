@@ -1,0 +1,38 @@
+*{    
+ box-sizing: border-box;
+}
+
+div{
+    float: left;
+    padding: 2%;
+    text-align: center;
+    display: block;
+}
+.head{
+    width:100%;
+    background-color: darkturquoise;
+    height: 100px;
+}
+.nav-1{
+    width: 100%;
+    background-color: yellow;
+    height: 50px;
+}
+
+.sidebar{
+    width: 25%;
+    background-color: blue;
+    height: 500px;
+    line-height: 350px;
+}
+.main{
+    width: 75%;
+    background-color: greenyellow;
+    height: 500px;
+    line-height: 350px;
+}
+.foot{
+    width: 100%;
+    background-color: lightcoral;
+    height: 50px;
+}
